@@ -6,7 +6,7 @@
 - 👨🏽‍🎓 Graduação: Engenharia de Software
 
 
-![Anderson-Teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-teodoro&show_icons=true&theme=merko)
+![anderson-teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-teodoro&show_icons=true&theme=merko)
 
 ## Tecnologias que eu uso no meu dia 🖥️
 
