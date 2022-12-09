@@ -1,6 +1,12 @@
 ### Olá! Eu sou o Anderon Teodoro ✋
 
-![Anderson-Teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-teodoro&show_icons=true&theme=dracula)
+- 💻 Hoje trabalho com front-end e back-end 
+- 👨🏽‍🎓 Estudando Python
+- 🧔🏽 Pronouns: Ele/Dele
+- 👨🏽‍🎓 Graduação: Engenharia de Software
+
+
+![Anderson-Teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-teodoro&show_icons=true&theme=merko)
 
 ## Tecnologias que eu uso no meu dia 🖥️
 
