@@ -34,4 +34,9 @@
 
 Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação 🖥️
 
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anderson-teodoro}/count.svg" /></p> 
+<br></div>
+
 
