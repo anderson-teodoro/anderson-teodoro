@@ -24,6 +24,8 @@
    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-teodoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Apaixonado por Tecnologia, educação e por mudar a vida das pessoas através da programação 🖥️
 
 
