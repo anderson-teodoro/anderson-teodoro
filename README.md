@@ -5,6 +5,13 @@
 - 🧔🏽 Pronouns: Ele/Dele
 - 👨🏽‍🎓 Graduação: Engenharia de Software
 
+## Meus Projetos 🛠🖥💻📏📐!
+
+Meus projetos incluem aplicações web dinâmicas e sites responsivos que atendem aos padrões de design atuais. Eu também tenho experiência em trabalhar em equipes e em lidar com problemas de escalabilidade e desempenho em aplicações web.
+
+Quando não estou desenvolvendo, gosto de manter-me atualizado com as últimas tendências e tecnologias da indústria, além de participar de comunidades online e eventos presenciais relacionados ao desenvolvimento de software.
+
+Se você estiver interessado em trabalhar comigo ou simplesmente deseja entrar em contato, fique à vontade para me enviar uma mensagem aqui no GitHub. Eu adoraria conversar e ver como posso contribuir para o seu negócio ou projeto.
 
 ![anderson-teodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-teodoro&show_icons=true&theme=merko)
 
