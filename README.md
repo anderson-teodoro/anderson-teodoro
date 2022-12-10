@@ -1,4 +1,4 @@
-### Olá! Eu sou o Anderon Teodoro ✋
+## Olá! Eu sou o Anderon Teodoro ✋
 
 - 💻 Hoje trabalho com front-end e back-end 
 - 👨🏽‍🎓 Estudando Python
